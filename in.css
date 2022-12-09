@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(163, 146, 146);
+    font-style: italic;
+    text-align: center;
+     color: rgb(0, 0, 0);
+}
+#body2{
+    flex-wrap: wrap-reverse;
+}
+#pos{
+    position: sticky;
+}
+a{ 
+    font-size: 290%;
+}
+h3{
+    color: rgb(63, 66, 109);
+}
